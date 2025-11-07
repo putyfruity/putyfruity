@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi, I'm Putt
+
+- 💻 Software Engineer interested in backend systems & distributed design
+- 🔒 Most of my current work is in private repositories (confidential client projects)
+- 🌱 Public demos coming soon
+- 📫 Reach me at: phiraphateden@outlook.com
